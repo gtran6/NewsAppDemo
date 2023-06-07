@@ -1,4 +1,4 @@
-package com.myprojects.bottomnav.ui.dashboard
+package com.myprojects.newsappdemo.ui.dashboard
 
 import android.os.Bundle
 import android.view.LayoutInflater

@@ -1,4 +1,4 @@
-package com.myprojects.bottomnav.ui.dashboard
+package com.myprojects.newsappdemo.ui.dashboard
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData

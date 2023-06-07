@@ -1,4 +1,4 @@
-package com.myprojects.bottomnav.ui.notifications
+package com.myprojects.newsappdemo.ui.notifications
 
 import android.os.Bundle
 import android.view.LayoutInflater

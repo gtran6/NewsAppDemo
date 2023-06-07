@@ -1,4 +1,4 @@
-package com.myprojects.bottomnav.ui.notifications
+package com.myprojects.newsappdemo.ui.notifications
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData

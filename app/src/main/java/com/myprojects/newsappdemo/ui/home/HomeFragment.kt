@@ -1,4 +1,4 @@
-package com.myprojects.bottomnav.ui.home
+package com.myprojects.newsappdemo.ui.home
 
 import android.os.Bundle
 import android.view.LayoutInflater
